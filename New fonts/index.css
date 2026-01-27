@@ -1,0 +1,11 @@
+.new-font h1{
+    -webkit-text-fill-color: #00000000;
+font-family: sans-serif;
+-webkit-text-stroke-color: #000000;
+    -webkit-text-stroke-width: 2px;
+    font-size: 50px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+
+}
